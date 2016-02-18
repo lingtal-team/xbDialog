@@ -1,0 +1,27 @@
+{
+  "name": "xbDialog",
+  "version": "0.0.1",
+  "description": "xbDialog",
+  "main": "dist/xbDialog.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lingtal-team/xbDialog"
+  },
+  "keywords": [
+    "xbDialog"
+  ],
+  "author": {
+    "name": "听着情歌流泪",
+    "email": "develop@lingtal.com"
+  },
+  "license": "BSD",
+  "dependencies": {
+    "jquery": ">=1.9.0"
+  },
+  "ignore": [
+    "**/.*"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "xbDialog",
+  "description": "xbDialog",
+  "main": "dist/xbDialog.js",
+  "version": "0.0.1",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "xbDialog"
+  ],
+  "authors": [
+    "听着情歌流泪 <develop@lingtal.com>"
+  ],
+  "license": "BSD",
+  "homepage": "https://github.com/lingtal-team/xbDialog",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.9.0"
+  }
+}
