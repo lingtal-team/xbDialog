@@ -1,7 +1,7 @@
 {
   "name": "xbDialog",
   "version": "0.0.1",
-  "description": "xbDialog",
+  "description": "经典的网页对话框组件，用心雕琢",
   "main": "dist/xbDialog.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

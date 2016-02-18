@@ -1,6 +1,6 @@
 {
   "name": "xbDialog",
-  "description": "xbDialog",
+  "description": "经典的网页对话框组件，用心雕琢",
   "main": "dist/xbDialog.js",
   "version": "0.0.1",
   "moduleType": [
