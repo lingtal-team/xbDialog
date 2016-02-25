@@ -11,3 +11,4 @@ node_modules/
 # bower
 .bower-cache
 .bower-registry
+bower_components
